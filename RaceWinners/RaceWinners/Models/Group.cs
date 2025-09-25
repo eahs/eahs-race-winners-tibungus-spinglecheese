@@ -17,3 +17,4 @@ public class Group
     /// </summary>
     public List<int> Ranks { get; set; }
 }
+//tibingus
