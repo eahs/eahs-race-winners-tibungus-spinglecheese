@@ -16,7 +16,7 @@ public class DataService
         // Simulate a little bit of delay as if we were loading this from a network
         await Task.Delay(1000);  // 1 second of delay
 
-        // Add a group
+        // Add all of our groups here
         groups.Add(new Group
         {
             Name = "Class A",
